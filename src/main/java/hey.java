@@ -3,6 +3,7 @@ public class hey {
         System.out.println("hello from hey");
 
         System.out.println("developing more commmit");
+        System.out.println("from intellij to github");
 
     }
 
